@@ -1,0 +1,6 @@
+[submodule "Daemon"]
+	path = Daemon
+	url = https://github.com/dacroq/Daemon.git
+[submodule "UI"]
+	path = UI
+	url = https://github.com/dacroq/UI.git
